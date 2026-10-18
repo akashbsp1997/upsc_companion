@@ -1,0 +1,10 @@
+{
+  "name": "UPSC Companion 180-Day Plan",
+  "short_name": "UPSC Companion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#102a43",
+  "description": "Offline-first six-month UPSC CSE and PSIR study plan",
+  "icons": []
+}
